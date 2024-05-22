@@ -1,6 +1,6 @@
 # DOM PROJECT
 
-### we have created the UI similar to sticky note by using the instruction given
+### I have created the UI similar to a sticky note by using the instructions given
 
 
-[link-to-ptoject]("")
+[link-to-ptoject]("https://chiremath-13.github.io/dom1/")
