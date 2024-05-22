@@ -1,0 +1,9 @@
+let text=document.getElementById("box");
+text.style.backgroundColor='yellow'
+text.style.margin='20px'
+text.style.padding='10px'
+text.style.fontWeight='bold'
+text.style.height='200px'
+text.style.width='300px'
+text.style.fontSize='18px'
+text.style.color='Blue'
